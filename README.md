@@ -1,2 +1,2 @@
 # Bored
-An activity generated randomly with The Bored API using npm axios
+Randomly generates activity with The Bored API using npm axios
